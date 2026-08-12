@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Resources/AppIcon.iconset/icon_256x256@2x.png" width="128" alt="Daily Todo logo">
+</p>
+
 # Daily Todo
 
 A tiny macOS menu bar app that nags you (nicely) about your daily tasks. It lives in
