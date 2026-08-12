@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+DailyTodo.app/
+*.dmg
+*.log
+.DS_Store
+.claude/
